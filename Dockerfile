@@ -1,4 +1,4 @@
-FROM mailgun/vulcand:v0.8.0-beta.2
+FROM mailgun/vulcand:v0.8.0-beta.3
 
 MAINTAINER Florian Kasper <florian@xpandmmi.com>
 
