@@ -11,4 +11,4 @@ echo "|___/\__,_/_/\___/\__,_/_/ /_/\__,_/    "
 /go/bin/vulcand \
   -apiInterface=0.0.0.0 \
   -sealKey=$SEAL_KEY \
-  --etcd=http://$ETCD_PORT_2379_TCP_ADDR:$ETCD_PORT_2379_TCP_PORT
+  --etcd=http://etcd.dev.docker:4001
